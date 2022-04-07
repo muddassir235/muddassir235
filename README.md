@@ -8,32 +8,32 @@ A dynamic and focused Software Developer and Tech Lead with a proven track recor
 
 Technologies: 
 
-[<img height="27" src="https://img.shields.io/badge/-iOS-777777?style=flat&logo=ios" />][iOS]
-[<img height="27" src="https://img.shields.io/badge/-Android-117711?style=flat&logo=android" />][Android]
-[<img height="27" src="https://img.shields.io/badge/-Tensor%20Flow-FFFFFF?style=flat&logo=tensorflow" />][Tensor Flow]
+[<img height="25" src="https://img.shields.io/badge/-iOS-777777?style=flat&logo=ios" />][iOS]
+[<img height="25" src="https://img.shields.io/badge/-Android-117711?style=flat&logo=android" />][Android]
+[<img height="25" src="https://img.shields.io/badge/-Tensor%20Flow-FFFFFF?style=flat&logo=tensorflow" />][Tensor Flow]
 
 Languages:
 
-[<img height="27" src="https://img.shields.io/badge/-Swift-771111?style=flat&logo=swift" />][Swift]
-[<img height="27" src="https://img.shields.io/badge/-Kotlin-552D7D?style=flat&logo=kotlin" />][Kotlin]
-[<img height="27" src="https://img.shields.io/badge/-Java-2233EE?style=flat&logo=java" />][Java]
-[<img height="27" src="https://img.shields.io/badge/-Python-FFFF00?style=flat&logo=python" />][Python]
-[<img height="27" src="https://img.shields.io/badge/-Markdown-222233?style=flat&logo=markdown" />][Markdown]
+[<img height="25" src="https://img.shields.io/badge/-Swift-771111?style=flat&logo=swift" />][Swift]
+[<img height="25" src="https://img.shields.io/badge/-Kotlin-552D7D?style=flat&logo=kotlin" />][Kotlin]
+[<img height="25" src="https://img.shields.io/badge/-Java-2233EE?style=flat&logo=java" />][Java]
+[<img height="25" src="https://img.shields.io/badge/-Python-FFFF00?style=flat&logo=python" />][Python]
+[<img height="25" src="https://img.shields.io/badge/-Markdown-222233?style=flat&logo=markdown" />][Markdown]
 
 IDEs:
 
-[<img height="27" src="https://img.shields.io/badge/-XCode-FFFFFF?style=flat&logo=xcode" />][XCode]
-[<img height="27" src="https://img.shields.io/badge/-Android%20Studio-3333AA?style=flat&logo=android-studio" />][Android Studio]
-[<img height="27" src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea" />][IntelliJ IDEA]
-[<img height="27" src="https://img.shields.io/badge/-Jupyter-EEFFFF?style=flat&logo=jupyter" />][Jupyter]
+[<img height="25" src="https://img.shields.io/badge/-XCode-FFFFFF?style=flat&logo=xcode" />][XCode]
+[<img height="25" src="https://img.shields.io/badge/-Android%20Studio-3333AA?style=flat&logo=android-studio" />][Android Studio]
+[<img height="25" src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea" />][IntelliJ IDEA]
+[<img height="25" src="https://img.shields.io/badge/-Jupyter-EEFFFF?style=flat&logo=jupyter" />][Jupyter]
 
 Tools:
 
-[<img height="27" src="https://img.shields.io/badge/-Git-EEFFFF?style=flat&logo=git" />][Git]
-[<img height="27" src="https://img.shields.io/badge/-Github-222233?style=flat&logo=github" />][Github]
-[<img height="27" src="https://img.shields.io/badge/-Bitbucket-2233EE?style=flat&logo=bitbucket" />][Bitbucket]
-[<img height="27" src="https://img.shields.io/badge/-Gitlab-EEFFFF?style=flat&logo=gitlab" />][Gitlab]
-[<img height="27" src="https://img.shields.io/badge/-Firebase-1BAEEB?style=flat&logo=firebase" />][Firebase]
+[<img height="25" src="https://img.shields.io/badge/-Git-EEFFFF?style=flat&logo=git" />][Git]
+[<img height="25" src="https://img.shields.io/badge/-Github-222233?style=flat&logo=github" />][Github]
+[<img height="25" src="https://img.shields.io/badge/-Bitbucket-2233EE?style=flat&logo=bitbucket" />][Bitbucket]
+[<img height="25" src="https://img.shields.io/badge/-Gitlab-EEFFFF?style=flat&logo=gitlab" />][Gitlab]
+[<img height="25" src="https://img.shields.io/badge/-Firebase-1BAEEB?style=flat&logo=firebase" />][Firebase]
 
 
 [iOS]:https://img.shields.io/badge/-iOS-777777?style=flat&logo=io
