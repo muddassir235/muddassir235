@@ -1,4 +1,4 @@
-# Native iOS/Android Developer
+# iOS/Android Developer
 
 A dynamic and focused Software Developer and Tech Lead with a proven track record in the software industry. Has 5 years of experience in the domain of AI-powered iOS and Android applications. Is currently a member of the Innovation Team at Callsign which innovates in the domains of Passive Authentication, Fraud Prevention, and Intelligence-based Identification.
 
